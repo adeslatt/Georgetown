@@ -1,0 +1,1 @@
+perl/translate_genefa_psl.pl
