@@ -1,4 +1,4 @@
 Georgetown
 ==========
 
-georgetown cide
+georgetown code
